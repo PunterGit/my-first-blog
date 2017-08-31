@@ -45,3 +45,8 @@
     .post h1 a, .post h1 a:visited {
         color: #000000;
     }
+    .btn-edit {
+        float: right;
+        margin-top: -4px;
+        margin-left: 2px;
+    }
